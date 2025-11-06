@@ -1,0 +1,15 @@
+# Environment variables
+.env
+.env.local
+.env.production
+
+# Node
+node_modules/
+npm-debug.log*
+yarn-debug.log*
+pnpm-debug.log*
+.lock-wscript
+
+# Builds
+dist/
+build/
